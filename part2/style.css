@@ -1,0 +1,21 @@
+/* External CSS for the webpage */
+
+/* Change the background color of the entire webpage */
+body {
+    background-color: #f9f9f9;
+    font-family: Verdana, sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Style links and add hover effects */
+  a {
+    color: royalblue;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: darkorange;
+    text-decoration: underline;
+  }
+  

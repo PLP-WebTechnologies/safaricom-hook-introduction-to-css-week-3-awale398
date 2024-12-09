@@ -1,0 +1,21 @@
+/* Element Selector: Styling all headings */
+h1 {
+    font-size: 2.5rem;
+    color: darkblue;
+  }
+  
+  /* Class Selector: Applying background color to specific sections */
+  .highlight {
+    background-color: lightyellow;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  /* ID Selector: Adding a border to a unique element */
+  #unique {
+    border: 2px solid darkgreen;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: lightgray;
+  }
+  
